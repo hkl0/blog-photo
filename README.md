@@ -1,4 +1,5 @@
 My blog photos
 
+Useage, For example:
 
-Useage: https://cdn.jsdelivr.net/gh/hiplon/blog-photo/2020/09/MDg1hzo.png
+https://cdn.jsdelivr.net/gh/kunlunh/blog-photo/2020/09/MDg1hzo.png
