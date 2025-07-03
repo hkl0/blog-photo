@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-indexFilepath = '/home/runner/work/hklcv/hklcv/public/index.html'
+indexFilepath = '/home/runner/work/hkwk/hkwk/public/index.html'
 
 # 读取 HTML 文件
 with open(indexFilepath, 'r', encoding='utf-8') as file:
