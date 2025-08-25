@@ -14,7 +14,7 @@ footer_div = soup.find('div', class_='footer')
 # 创建新的链接
 new_links = [
     '<a href="https://beian.miit.gov.cn/">粤ICP备13053581号-5</a>.',
-    '<a href="http://www.beian.gov.cn/portal/recordQuery">粤公网安备 44070302000613号</a>'
+    '<a href="http://www.beian.gov.cn/portal/recordQuery">粤公网安备 44011302004945号</a>'
 ]
 
 # 将新链接添加到 footer 中
